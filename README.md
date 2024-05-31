@@ -39,4 +39,4 @@ The dataset includes groundwater quality measurements taken from various monitor
 ## Screenshots
 
 **Dashboard Screenshot**: 
-![Dashboard Screenshot](https://raw.githubusercontent.com/ttfwang/images/85b8ca02e8f2da02bbb10a9c00e0c9ecf8cd9d2a/screenshot_dashboard_overview.PNG)
+![Dashboard Screenshot](https://github.com/ttfwang/groundwater_quality_analysis/blob/main/screenshot_groundwater_dashboard_overview.PNG?raw=true)
